@@ -1,0 +1,16 @@
+E:\practice\Gitdemo2\bin\Debug\net5.0\Gitdemo2.exe
+E:\practice\Gitdemo2\bin\Debug\net5.0\Gitdemo2.deps.json
+E:\practice\Gitdemo2\bin\Debug\net5.0\Gitdemo2.runtimeconfig.json
+E:\practice\Gitdemo2\bin\Debug\net5.0\Gitdemo2.runtimeconfig.dev.json
+E:\practice\Gitdemo2\bin\Debug\net5.0\Gitdemo2.dll
+E:\practice\Gitdemo2\bin\Debug\net5.0\ref\Gitdemo2.dll
+E:\practice\Gitdemo2\bin\Debug\net5.0\Gitdemo2.pdb
+E:\practice\Gitdemo2\obj\Debug\net5.0\Gitdemo2.csproj.AssemblyReference.cache
+E:\practice\Gitdemo2\obj\Debug\net5.0\Gitdemo2.GeneratedMSBuildEditorConfig.editorconfig
+E:\practice\Gitdemo2\obj\Debug\net5.0\Gitdemo2.AssemblyInfoInputs.cache
+E:\practice\Gitdemo2\obj\Debug\net5.0\Gitdemo2.AssemblyInfo.cs
+E:\practice\Gitdemo2\obj\Debug\net5.0\Gitdemo2.csproj.CoreCompileInputs.cache
+E:\practice\Gitdemo2\obj\Debug\net5.0\Gitdemo2.dll
+E:\practice\Gitdemo2\obj\Debug\net5.0\ref\Gitdemo2.dll
+E:\practice\Gitdemo2\obj\Debug\net5.0\Gitdemo2.pdb
+E:\practice\Gitdemo2\obj\Debug\net5.0\Gitdemo2.genruntimeconfig.cache
