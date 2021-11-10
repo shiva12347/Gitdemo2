@@ -6,7 +6,10 @@ namespace Gitdemo2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello SHIVA ");
+            
+Console.WriteLine("Hello SHIVA ");
+Console.WriteLine("Hello APPLES ");
+            
         }
     }
 }
